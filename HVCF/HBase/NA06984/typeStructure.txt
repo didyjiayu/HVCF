@@ -1,0 +1,9 @@
+CHROM, SingleColumn
+POS, SingleColumn
+ID, SingleColumn
+REF, SingleColumn
+ALT, SingleColumn
+QUAL, SingleColumn
+FILTER, SingleColumn
+INFO, INFOFamily
+NA06984, SampleFamily
